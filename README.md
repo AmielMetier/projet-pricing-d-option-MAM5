@@ -4,8 +4,8 @@ Mini-projet de calcul numérique pour la finance — **Polytech Nice Sophia (MAM
 
 ## Équipe
 - Amiel Metier
-- Nicolas Muratore
 - Tahitoa Senis
+- Nicolas Muratore
 
 ---
 
